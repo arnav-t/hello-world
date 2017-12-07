@@ -1,2 +1,4 @@
 # hello-world
-Test repository
+Test repository      
+This is the first commit I made.     
+This strictly for testing purposes.
